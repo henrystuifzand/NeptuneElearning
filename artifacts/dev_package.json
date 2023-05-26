@@ -1,0 +1,50 @@
+{
+	"id": "018e635d-6176-4749-a944-2d3de6fb803b",
+	"createdAt": "2023-05-26T13:10:28.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/henrystuifzand/NeptuneElearning"
+	},
+	"name": "eLearning",
+	"description": null,
+	"ver": "23.5.26.1317",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [
+		{
+			"id": "a15df8c6-e54d-4d3a-bf59-08a2047fa2f1",
+			"updatedAt": "2023-05-26T13:21:34.000Z",
+			"name": "Icons",
+			"parent": null,
+			"package": "018e635d-6176-4749-a944-2d3de6fb803b"
+		}
+	],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
