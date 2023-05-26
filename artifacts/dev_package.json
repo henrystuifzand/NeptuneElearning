@@ -22,9 +22,57 @@
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
-	"tile": [],
-	"category": [],
-	"launchpad": [],
+	"tile": [
+		{
+			"id": "f6379e32-85ba-4d46-b26d-0fb8a7d9be91",
+			"description": null,
+			"name": "4WorkFlowinbox"
+		},
+		{
+			"id": "a44c4e5e-2819-4ac7-b06b-a0ac1fa93a35",
+			"description": null,
+			"name": "2ViewAndEditEquipment"
+		},
+		{
+			"id": "8c5cd1a2-704e-4920-b425-4d823c237e55",
+			"description": null,
+			"name": "5Analytics"
+		},
+		{
+			"id": "7437b714-7688-4da0-9ade-49e7e865f8b9",
+			"description": null,
+			"name": "3FieldWorkerinspect"
+		},
+		{
+			"id": "52c2bab2-5260-49cb-b830-6af97981fdfa",
+			"description": null,
+			"name": "1AddEquipment"
+		}
+	],
+	"category": [
+		{
+			"id": "e8e7c270-4642-4dea-806f-58552739a2e7",
+			"description": null,
+			"name": "Manager Apps"
+		},
+		{
+			"id": "bef31b8d-ef98-41fd-b370-5ec314570246",
+			"description": null,
+			"name": "Main Apps"
+		},
+		{
+			"id": "54b4e2a1-fa07-457d-b357-064a0ae4ec9e",
+			"description": null,
+			"name": "All Apps"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "97b83fd6-137d-4faa-90c6-c4b9cfe63edb",
+			"name": "eLearning Launchpad",
+			"description": null
+		}
+	],
 	"certificates": [],
 	"role": [],
 	"systems": [],

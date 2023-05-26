@@ -1,0 +1,85 @@
+{
+	"id": "97b83fd6-137d-4faa-90c6-c4b9cfe63edb",
+	"createdAt": "2023-05-26T13:38:54.000Z",
+	"createdBy": "admin",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [
+		"54b4e2a1-fa07-457d-b357-064a0ae4ec9e"
+	],
+	"layout": [
+		{
+			"id": "15b3cd19-590f-4482-c4b7-f7ed5b4852fd",
+			"css": "",
+			"name": "eLearning Layout",
+			"active": true,
+			"style": [
+				"==OBJECT STRING==",
+				"<style>",
+				"        .nepShell {",
+				"            background-image: url('https://neptune_v1.cfapps.us10-001.hana.ondemand.com/media/root/SimpleEquipmentBackground-210721-180224.jpg') !important;",
+				"            background-repeat: no-repeat;",
+				"            background-size: cover;",
+				"        }",
+				"    </style>"
+			],
+			"pageBackgroundImage": "https://neptune_v1.cfapps.us10-001.hana.ondemand.com/media/root/SimpleEquipmentBackground-210721-180224.jpg"
+		}
+	],
+	"config": {
+		"enhancement": ""
+	},
+	"enhancement": [],
+	"name": "eLearning Launchpad",
+	"title": "eLearning Launchpad",
+	"description": null,
+	"startApp": null,
+	"startWebApp": null,
+	"customLogo": null,
+	"launchpadApp": "planet9_launchpad_standard",
+	"hideSidemenu": false,
+	"ui5Version": "1.108",
+	"ui5Url": null,
+	"ui5Theme": "sap_horizon",
+	"header": null,
+	"customTheme": null,
+	"isExternal": null,
+	"emailPattern": null,
+	"loginApp": null,
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "23.5.26.1343",
+	"pwa_enable": false,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": null,
+	"pwa_backgroundColor": null,
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"package": "018e635d-6176-4749-a944-2d3de6fb803b",
+	"cat": [
+		{
+			"id": "54b4e2a1-fa07-457d-b357-064a0ae4ec9e",
+			"name": "All Apps",
+			"title": "All Applications",
+			"ver": "23.5.26.1335"
+		}
+	]
+}
